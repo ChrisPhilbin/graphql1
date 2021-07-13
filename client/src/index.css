@@ -1,4 +1,8 @@
 body {
   background: #eee;
-  font-family: "Comic Sans MS";
+  font-family: "Times new roman";
+}
+#header {
+  font-family: "Arial";
+  color: red;
 }
